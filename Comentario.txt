@@ -1,0 +1,19 @@
+Buenas, en el siguente comentario les dejara les dejara mas en claro lo que realiza el prototipo, realizado por el estudiante José Vélez Salcedo 
+
+Aspectos de la interfaz:
+
+Diseño Limpio: La interfaz destaca por su diseño limpio y atractivo. Los elementos visuales están bien organizados, lo que facilita la comprensión y navegación del usuario. La elección de colores es agradable a la vista y se mantiene coherente en todo el diseño.
+
+Botones Intuitivos: Los botones en la interfaz son intuitivos y están claramente etiquetados. Cada botón comunica su función de manera efectiva, lo que es esencial para una experiencia de usuario positiva.
+
+Iconografía Relevante: Se han utilizado iconos relevantes que complementan las acciones y opciones disponibles en la interfaz. Esto ayuda a los usuarios a identificar rápidamente las funciones que desean utilizar.
+
+Funcionalidad:
+
+Funcionalidades Prometedoras: A pesar de ser un prototipo en desarrollo, se pueden vislumbrar algunas funcionalidades prometedoras. Las opciones de inicio de sesión, registro y recuperación de contraseña están claramente definidas y prometen ser funcionales en el futuro. Esto es un buen punto de partida.
+
+Limitaciones Comunes de un Prototipo: Como era de esperar en un prototipo en desarrollo, las funcionalidades son limitadas en esta etapa. Los botones y opciones disponibles pueden no estar habilitados aún, lo que puede dar lugar a la incapacidad de realizar ciertas acciones. Sin embargo, es alentador ver que se ha proporcionado retroalimentación al usuario, notificándole que ciertas acciones no están disponibles en este momento.
+
+Falta de Contenido Real: Dado que es un prototipo, es comprensible que falte contenido real o datos dinámicos. Esto puede afectar la experiencia del usuario, ya que no se pueden realizar operaciones de manera efectiva. Sin embargo, esto es una limitación común en las primeras etapas de desarrollo.
+
+Muchas Gracias
